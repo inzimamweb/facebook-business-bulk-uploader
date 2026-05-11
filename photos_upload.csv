@@ -1,0 +1,6 @@
+photo_url,caption,scheduled_time,published
+https://example.com/images/product1.jpg,"Our new summer collection is here! 🌞 Shop now at our store.",2026-05-12 10:00:00,true
+https://example.com/images/product2.jpg,"Behind the scenes at our workshop. Quality craftsmanship in every piece.",2026-05-13 11:00:00,true
+https://example.com/images/product3.jpg,"Customer favorite — the Classic Series. Available in 5 colors.",2026-05-14 09:30:00,true
+https://example.com/images/service1.jpg,"We now offer free consultations every Saturday. Book your slot today!",2026-05-15 10:00:00,true
+https://example.com/images/service2.jpg,"Our team is ready to help. Contact us for a custom quote.",2026-05-16 12:00:00,true
